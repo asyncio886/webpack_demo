@@ -1,0 +1,6 @@
+#root{
+    height: 100vh;
+    background-color: aqua;
+    display: flex;
+    transform: translateX(100px);
+}

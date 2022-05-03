@@ -1,0 +1,16 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "21053628",
+      "name": "阿里云",
+      "font_class": "aliyun",
+      "unicode": "e66e",
+      "unicode_decimal": 58990
+    }
+  ]
+}

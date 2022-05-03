@@ -1,0 +1,1 @@
+import pic from "./pic.css";
